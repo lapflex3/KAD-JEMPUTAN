@@ -1,0 +1,23 @@
+{
+  "short_name": "Kad Persaraan",
+  "name": "Kad Jemputan Majlis Persaraan",
+  "description": "Aplikasi Reka Bentuk & Penyuntingan Kad Jemputan Majlis Persaraan Premium dengan AI & RSVP.",
+  "icons": [
+    {
+      "src": "/src/assets/images/main.jpg",
+      "type": "image/jpeg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/src/assets/images/main.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#111827",
+  "theme_color": "#DFBA54",
+  "display": "standalone",
+  "orientation": "portrait",
+  "categories": ["utilities", "lifestyle"]
+}

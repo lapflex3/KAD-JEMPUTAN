@@ -1,0 +1,6 @@
+{
+  "name": "Kad Jemputan Majlis Persaraan",
+  "description": "Aplikasi reka bentuk, penyuntingan dan pengurusan kad jemputan digital majlis persaraan premium dengan sokongan AI, pengurusan RSVP, muzik latar dan mod luar talian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
